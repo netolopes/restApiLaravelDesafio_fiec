@@ -12,11 +12,13 @@ PHP Version:
     Versão do servidor: 5.7.24 - MySQL Community Server
     
     
-    //TESTAR URL POSTMAN
+    //TESTAR URL POSTMAN CADASTRO DE ENDERECO
 //somente endereco
+
 //http://127.0.0.1:8000/api/end/?cod_cep=60731532
 
 //endereco passando tipo = 1 (RESIDENCIAL) e tipo = 2 (COMERCIAL) cliente = (ID DA TABELA CLIENTE)
+
 //http://127.0.0.1:8000/api/end/?cod_cep=60731532&tipo=1&cliente=1
 
 ARQUIVO SQL ENCONTRA-SE DENTRO DO PROJETO NA PASTA SQL
