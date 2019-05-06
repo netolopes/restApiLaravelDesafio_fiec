@@ -11,6 +11,7 @@ PHP Version:
     
     Versão do servidor: 5.7.24 - MySQL Community Server
     
+   FRAMEWORK - LARAVEL 5.8.15 
     
     //TESTAR URL POSTMAN CADASTRO DE ENDERECO
 //somente endereco
